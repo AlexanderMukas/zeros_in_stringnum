@@ -3,6 +3,7 @@
 var_string = "011101000001"
 
 def main(var_string):
+    print("New version!!!")
     first = ""
     z = 0
     zmax = 0
