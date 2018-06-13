@@ -18,5 +18,5 @@ def main(var_string):
             continue
     return temp
     
-result = 'Максимальное кол-во нулей между единиц = ' + str(main(var_string))
+result = 'Максимальное кол-во нулей между цифрами= ' + str(main(var_string))
 print(result)
